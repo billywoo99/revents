@@ -1,5 +1,4 @@
 {
-    "files.exclude": {
-        "**/.eslintcache": true
-    }
+    "search.useIgnoreFiles": false,
+    "autoimport.filesToScan": "**/*.{ts,tsx,js,jsx}"
 }

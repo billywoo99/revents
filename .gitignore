@@ -3,6 +3,7 @@
 # my added ignore files
 debug.log
 .gitignore
+notes.txt
 # dependencies
 /node_modules
 /.pnp
